@@ -24,7 +24,8 @@ DB_PASSWORD=
 <p>3) Las rutas están ubicadas en la carpeta "routes" y en el archivo "web.php"</p>
 <p>4) Creé y utilicé un único controlador ubicado en la carpeta "app/http/controllers" y se llama "MatrizController.php"</p>
 <p>5) Los modelos que creé para comunicarme con la base de datos están en la carpeta "app/models"</p>
-<p>6) Si utilizas Laragon por primera vez y quieres generar una base de datos de manera simple con PHPMyAdmin, podrás instalarlo haciendo clic derecho en la zona blanca de Laragon, luego clic en la opción de herramientas, después clic en "Quick add" y finalmente clic en PHPMyAdmin</p>
+<p>6) Las vistas y/o paginas creadas se encuentran en la carpeta resources/views, dentro estaran todas las vistas realizadas para el proyecto y una carpeta llamada template, que es una plantilla creada por mi, la cual contine la nav bar e importacion del codigo css y boostrap utilizado en el proyecto.
+<p>7) Si utilizas Laragon por primera vez y quieres generar una base de datos de manera simple con PHPMyAdmin, podrás instalarlo haciendo clic derecho en la zona blanca de Laragon, luego clic en la opción de herramientas, después clic en "Quick add" y finalmente clic en PHPMyAdmin</p>
 <h1>Base de datos</h1>
 <p>La base de datos que utilicé se puede descargar desde el siguiente enlace: <a href="https://drive.google.com/file/d/1flzYdfGG4g4R4LMaPcmmb0pI25n_tlJ5/view?usp=sharing">Descargar Base de Datos</a></p>
 <br>
